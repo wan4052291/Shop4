@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812945668138",
+    "firebase_url": "https://shop3-3d0d6.firebaseio.com",
+    "project_id": "shop3-3d0d6",
+    "storage_bucket": "shop3-3d0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812945668138:android:c72a24e045272d583d6b53",
+        "android_client_info": {
+          "package_name": "com.wayne.shop3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812945668138-i1sdcja7ie9q6c3noga29nv0oai65e0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqzurxLbC143ZrGltahy5AATMLEj2iQnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812945668138-i1sdcja7ie9q6c3noga29nv0oai65e0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
